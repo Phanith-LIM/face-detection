@@ -18,9 +18,8 @@ While not required, for optimal performance it is highly recommended to run the 
 ## Install
 
 The easiest way to install it is using pip:
-
 ```bash
-pip install git+https://github.com/elliottzheng/face-detection.git@master
+pip install git+https://github.com/Phanith-LIM/face-detection.git@master
 ```
 
 ## Usage
